@@ -1,0 +1,4 @@
+BriefRenren
+===========
+
+An android application
